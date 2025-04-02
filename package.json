@@ -1,0 +1,24 @@
+{
+  "name": "rt2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedHr/RT2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedHr/RT2/issues"
+  },
+  "homepage": "https://github.com/PedHr/RT2#readme",
+  "dependencies": {
+    "@types/node": "^22.13.17",
+    "typescript": "^5.8.2"
+  }
+}
